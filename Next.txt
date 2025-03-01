@@ -1,0 +1,1 @@
+"C:\Users\SÜLEYMAN\web3\fe\.github\workflows\firebase-hosting-pull-request.yml" dosyasını backende uyumlu hale getir
