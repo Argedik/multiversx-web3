@@ -1,0 +1,1 @@
+/home/argedik/Desktop/fe/multiversx-web3/escrow-sc/target/wasm32-unknown-unknown/release/escrow_sc_wasm.wasm: /home/argedik/Desktop/fe/multiversx-web3/escrow-sc/src/escrow_sc.rs /home/argedik/Desktop/fe/multiversx-web3/escrow-sc/wasm/src/lib.rs

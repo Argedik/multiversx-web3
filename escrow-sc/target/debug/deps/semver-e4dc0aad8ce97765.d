@@ -1,0 +1,12 @@
+/home/argedik/Desktop/fe/multiversx-web3/escrow-sc/target/debug/deps/libsemver-e4dc0aad8ce97765.rmeta: /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/lib.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/backport.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/display.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/error.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/eval.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/identifier.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/impls.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/parse.rs
+
+/home/argedik/Desktop/fe/multiversx-web3/escrow-sc/target/debug/deps/semver-e4dc0aad8ce97765.d: /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/lib.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/backport.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/display.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/error.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/eval.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/identifier.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/impls.rs /home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/parse.rs
+
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/lib.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/backport.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/display.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/error.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/eval.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/identifier.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/impls.rs:
+/home/argedik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.25/src/parse.rs:

@@ -1,0 +1,1 @@
+/home/argedik/Desktop/fe/multiversx-web3/escrow-sc/target/debug/escrow-sc-meta: /home/argedik/Desktop/fe/multiversx-web3/escrow-sc/meta/src/main.rs /home/argedik/Desktop/fe/multiversx-web3/escrow-sc/src/escrow_sc.rs
